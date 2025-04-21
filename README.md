@@ -22,8 +22,8 @@ This project analyzes sales and profit data for products in the USA from 2021 to
 ![Sales and Profit Dashboard](https://github.com/7amzamagdi/Sales-profit-Analysis-using-Excel/blob/d8dfdf3f1ece5c4f7c6645d183fdb1b640558f65/Sales%20%26profit.png)
 
 ## 🛠 How to Use
-1. Download the **Sales-and-Profit-Dataset.xlsb.xlsx** and **Sales_Profit_Dashboard.xlsb.xlsx** files.
-2. Open **Sales_Profit_Dashboard.xlsb.xlsx** in Excel.
+1. Download the **Sales and Profit Data (version 2).xlsb.xlsx** file.
+2. Open **Sales and Profit Data (version 2).xlsb.xlsx** in Excel.
 3. Explore the interactive dashboards and charts to analyze the data.
 
 ## 🌐 Access the Dashboard Online
